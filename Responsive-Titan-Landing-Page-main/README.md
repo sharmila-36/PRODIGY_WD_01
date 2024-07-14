@@ -1,7 +1,3 @@
-### Responsive Landing Page Headphones 🎧
+TASK 1- Landing Page - Titan Watch
 
-- Beautiful headphone landing page using HTML, CSS and JAVASCRIPT.
-- Dark interface.
-- With animations when scrolling.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+I've implemented an interactive navigation menu for the Titan Watch landing page. The menu features a fixed position for easy access across all pages, with HTML providing the structural foundation. Using CSS, I styled the menu to align seamlessly with Titan's brand aesthetics, ensuring clarity and visual appeal. Leveraging JavaScript, I added dynamic functionalities: the menu changes its background and font colors when scrolled or hovered over, enhancing user interaction and navigation experience.
